@@ -1,2 +1,2 @@
 # go-hexagonal-architecture
-Practicing with Go and exagonal architecture - FC lessons
+Practicing with Go and hexagonal architecture - FC lessons
